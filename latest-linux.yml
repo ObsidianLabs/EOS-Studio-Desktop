@@ -1,0 +1,9 @@
+version: 0.6.0
+files:
+  - url: EOSStudio-0.6.0.AppImage
+    sha512: jsAfKLln6Qssuf5Jmc7kD7e5y0ptymmQpuXa0KJvWTq1ym+BrEiToSQQEW54HaXZ1hEk67iwfRDGZE0IFCDQrQ==
+    size: 90678787
+    blockMapSize: 94023
+path: EOSStudio-0.6.0.AppImage
+sha512: jsAfKLln6Qssuf5Jmc7kD7e5y0ptymmQpuXa0KJvWTq1ym+BrEiToSQQEW54HaXZ1hEk67iwfRDGZE0IFCDQrQ==
+releaseDate: '2019-05-08T08:05:38.006Z'
