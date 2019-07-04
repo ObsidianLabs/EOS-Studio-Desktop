@@ -1,8 +1,8 @@
 version: 0.7.0
 files:
   - url: EOSStudio-0.7.0.exe
-    sha512: SybnLVNdN/4qQdoOqaRTYGqBEFddVon24SMvbZ9tvY3fFrl1GuFMdmVK0idoUCqQ17sgTyNshArjDmR2+IuQpw==
-    size: 52800209
+    sha512: 0mNFxH0ODyNnYtLeDWnYJD8JeHpxjhljTuxXw5GSwufT3/a2DXmu975FSS/riIHOz+5Lu7jM6QvmgLitjw7Rsw==
+    size: 52800387
 path: EOSStudio-0.7.0.exe
-sha512: SybnLVNdN/4qQdoOqaRTYGqBEFddVon24SMvbZ9tvY3fFrl1GuFMdmVK0idoUCqQ17sgTyNshArjDmR2+IuQpw==
-releaseDate: '2019-07-04T02:18:22.587Z'
+sha512: 0mNFxH0ODyNnYtLeDWnYJD8JeHpxjhljTuxXw5GSwufT3/a2DXmu975FSS/riIHOz+5Lu7jM6QvmgLitjw7Rsw==
+releaseDate: '2019-07-04T03:45:39.177Z'
