@@ -1,12 +1,12 @@
-version: 0.7.0
+version: 0.7.1
 files:
-  - url: EOSStudio-0.7.0.zip
-    sha512: cQlr0iRV+9yfcS8KvAFC8rqJUPs5MU4tdqHI2X9y60zNpIFcYf/hpAKXfjnIfeb8+WNZ0Z7NtMUsaZkKVWKADw==
-    size: 67264770
-    blockMapSize: 69926
-  - url: EOSStudio-0.7.0.dmg
-    sha512: uXm/+LFsaM2ATsp8hVzrrtUaV7/L7kuR3dN4JuWm8K5w1M7Y7mABhG4k3TB4I917stOn7BC7vuyZNz3XeQqtmQ==
-    size: 69868157
-path: EOSStudio-0.7.0.zip
-sha512: cQlr0iRV+9yfcS8KvAFC8rqJUPs5MU4tdqHI2X9y60zNpIFcYf/hpAKXfjnIfeb8+WNZ0Z7NtMUsaZkKVWKADw==
-releaseDate: '2019-07-04T03:54:11.669Z'
+  - url: EOSStudio-0.7.1.zip
+    sha512: m35iBvGBqPY0PQbvFyM1gomTp3aThWo7w6eM9RVI/h0HGByh+ZwaUnhw9obOeXvFUhJBh3OkVXHI0QsigAc4BQ==
+    size: 68928192
+    blockMapSize: 71905
+  - url: EOSStudio-0.7.1.dmg
+    sha512: Us+h+NN4QIY3Awv32525075J6eBYm3y/UpkleY9r2BtoZ1sfvPC2GG7PUxSDYAmFcqyW0SQHQW/KUKx9374tfA==
+    size: 71629816
+path: EOSStudio-0.7.1.zip
+sha512: m35iBvGBqPY0PQbvFyM1gomTp3aThWo7w6eM9RVI/h0HGByh+ZwaUnhw9obOeXvFUhJBh3OkVXHI0QsigAc4BQ==
+releaseDate: '2019-07-10T08:19:23.536Z'
