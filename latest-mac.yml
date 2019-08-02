@@ -1,12 +1,12 @@
 version: 0.9.1
 files:
   - url: EOSStudio-0.9.1.zip
-    sha512: iMRgRZxwnmiggQowT1ZxBRIIO4Mlv6oTaIPgAnCwc0FknLujw7vjkoZ/9Ry+dpVtQdgXraqxaGKp0efZY3WU0w==
-    size: 64698978
-    blockMapSize: 66878
+    sha512: M2LcNfkw9nnOf4H7okCi8lfNGzKSVCII4yYRKe0scHK5Z1cvH7SEji6LqBzBFS9L8xQ/l+oSf7rOvs9M4T8oow==
+    size: 66130790
+    blockMapSize: 68776
   - url: EOSStudio-0.9.1.dmg
-    sha512: onWwIPVqVMvqKR+NZ5I2EDoeWa4WNNGLD1LoeguFfGXVRvs52lkVMh+pMhUg87/zhlcZNPbJcl6ppUI6KXyNxw==
-    size: 67186726
+    sha512: fmw3383A0h14hSSDFWZ80X90x/YBDqA0C+zuD3r4RycGutMCOjgclqN6DRnch60C2gTnDx/FChet3NKUqmrd+A==
+    size: 68597627
 path: EOSStudio-0.9.1.zip
-sha512: iMRgRZxwnmiggQowT1ZxBRIIO4Mlv6oTaIPgAnCwc0FknLujw7vjkoZ/9Ry+dpVtQdgXraqxaGKp0efZY3WU0w==
-releaseDate: '2019-08-02T02:53:40.626Z'
+sha512: M2LcNfkw9nnOf4H7okCi8lfNGzKSVCII4yYRKe0scHK5Z1cvH7SEji6LqBzBFS9L8xQ/l+oSf7rOvs9M4T8oow==
+releaseDate: '2019-08-02T05:01:30.118Z'
