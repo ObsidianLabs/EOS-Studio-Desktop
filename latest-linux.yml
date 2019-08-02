@@ -1,9 +1,9 @@
-version: 0.8.0
+version: 0.9.1
 files:
-  - url: EOSStudio-0.8.0.AppImage
-    sha512: Qn3AIF2uo98Epdga39r0E7JsIgNefcZ3Jxq/LY+bTEMVML/fib5t79dW7z+/HeCwUVQndBbc9qAm0MqpCuFAWA==
-    size: 72795439
-    blockMapSize: 75075
-path: EOSStudio-0.8.0.AppImage
-sha512: Qn3AIF2uo98Epdga39r0E7JsIgNefcZ3Jxq/LY+bTEMVML/fib5t79dW7z+/HeCwUVQndBbc9qAm0MqpCuFAWA==
-releaseDate: '2019-07-20T04:28:28.830Z'
+  - url: EOSStudio-0.9.1.AppImage
+    sha512: L85vNzw12qYZEQaWF3Z7JnI/b/5Hc8WA8bonkVbY17CEMFy+yPYy8lKOHLAzEWtJi5E49KSdzwzKRCaZBJ1siQ==
+    size: 73127759
+    blockMapSize: 75619
+path: EOSStudio-0.9.1.AppImage
+sha512: L85vNzw12qYZEQaWF3Z7JnI/b/5Hc8WA8bonkVbY17CEMFy+yPYy8lKOHLAzEWtJi5E49KSdzwzKRCaZBJ1siQ==
+releaseDate: '2019-08-02T04:54:56.178Z'
