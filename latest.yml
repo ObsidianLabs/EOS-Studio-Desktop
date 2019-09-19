@@ -1,8 +1,8 @@
-version: 0.9.1
+version: 0.10.0
 files:
-  - url: EOSStudio-0.9.1.exe
-    sha512: hbo4EG5AUhocjDYawWIWXeSD0UbkiWK4N8vAG04nTxUXYLD9uGsln5VWbJAhO/Heovwd+WPMuZkSYD1F3tssLg==
-    size: 50485886
-path: EOSStudio-0.9.1.exe
-sha512: hbo4EG5AUhocjDYawWIWXeSD0UbkiWK4N8vAG04nTxUXYLD9uGsln5VWbJAhO/Heovwd+WPMuZkSYD1F3tssLg==
-releaseDate: '2019-08-02T07:09:15.773Z'
+  - url: EOSStudio-0.10.0.exe
+    sha512: nkH0PqswQ07KdCfif9EWttBxCIV+UqzFAzXRI1ZN1iIiVZ8JD9JlH/Y3p/yEQ0th8NlqC1NsyY7NBJ3JFlukCg==
+    size: 61867502
+path: EOSStudio-0.10.0.exe
+sha512: nkH0PqswQ07KdCfif9EWttBxCIV+UqzFAzXRI1ZN1iIiVZ8JD9JlH/Y3p/yEQ0th8NlqC1NsyY7NBJ3JFlukCg==
+releaseDate: '2019-09-19T08:32:57.963Z'
